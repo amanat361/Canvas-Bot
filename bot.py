@@ -127,3 +127,5 @@ async def on_message(message):
 # get your token from the discord developer portal
 # inside of the bot page where it says copy token
 client.run('<PUT YOUR DISCORD BOT TOKEN HERE>')
+
+# comit test
